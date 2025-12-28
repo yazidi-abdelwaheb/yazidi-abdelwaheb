@@ -129,7 +129,7 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=yazidi-abdelwaheb&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=yazidi-abdelwaheb&limit=7&theme=dark&combine_all_yearly_contributions=true&hide_contributor_rank=false&order_by=contributions)
 
 </div>
 
