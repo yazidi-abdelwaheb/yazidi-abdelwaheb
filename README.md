@@ -110,7 +110,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=yazidi-abdelwaheb&theme=radical&margin-w=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yazidi-abdelwaheb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
