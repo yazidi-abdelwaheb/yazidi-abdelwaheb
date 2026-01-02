@@ -11,7 +11,7 @@
 
 ### 🚀 What I Do
 - 🎨 Build modern **Front-end** interfaces with **Angular & React**
-- ⚙️ Develop scalable **Back-end APIs** using **Node.js, NestJS & Django**
+- ⚙️ Develop scalable **Back-end APIs** using **Node.js, NestJS & ExpressJS**
 - 🧹 Write **clean, structured & maintainable code**
 - 🎯 Respect **UI/UX best practices** and performance standards
 
@@ -111,15 +111,6 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yazidi-abdelwaheb&theme=onedark&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### ✍️ Dev Quote
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?theme=radical)
 
 </div>
 
