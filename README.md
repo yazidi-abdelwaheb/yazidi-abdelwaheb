@@ -66,7 +66,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![SYMFONY](https://img.shields.io/badge/symfony-6DB33F?style=for-the-badge&logo=symfony)
+![SYMFONY](https://img.shields.io/badge/symfony-002?style=for-the-badge&logo=symfony)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 </div>
