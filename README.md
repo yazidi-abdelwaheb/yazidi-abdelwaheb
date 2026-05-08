@@ -4,6 +4,12 @@
 
 👋 **Hello! I'm Abdelwaheb**, a motivated **Web Developer** passionate about building  
 **modern, responsive, and high-performance web applications**.
+</div>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=50&color=F70000&width=600&lines=Full+Stack+Developper;JavaScript+%7C+TypeScript+%7C+Es6%2B+;NodeJs+%7C+ExpressJs+%7C+Mongosse+%7C++API+REST;Angular+%7C+Angular+Material+%7C+Tailwind+CSS;MongoDB+%7C+MySQL+%7C+SQL+Server" alt="Typing SVG" />
+
 
 </div>
 
